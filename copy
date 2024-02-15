@@ -1,0 +1,14 @@
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="5">
+<tr>
+<td width="60%" align="center">
+<OBJECT CLASSID="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
+CODEBASE="http://www.apple.com/qtactivex/qtplugin.cab"
+WIDTH="320" HEIGHT="256" >
+<PARAM NAME="src" VALUE="http://localhost/plantvid.mp4">
+<PARAM NAME="autoplay" VALUE="true">
+<PARAM NAME="controller" value="true">
+<EMBED SRC="QTMimeType.pntg" TYPE="image/x-macpaint"
+PLUGINSPAGE="http://www.apple.com/quicktime/download" QTSRC="http://localhost/flv-avi-mpg-mov-mkv-mp4-player/b.flv"
+WIDTH="500" HEIGHT="300" AUTOPLAY="true" CONTROLLER="true">
+</EMBED>
+</OBJECT>
